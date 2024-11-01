@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Electrical Engineering Student
 ------------------------------
 
-Howdy! I'm David Sharp, an electrical engineering student at Texas State University. I'm looking to pursue a Master's Degree in Biomedical Engineering with a concentration in Neural Engineering. My dream is to create a better life for people by combining my skills in electrical engineering and my love for neuroscience. 
+Howdy! I'm David Sharp, an electrical engineering student at Texas State University. I'm looking to pursue a Master's Degree in Electrical Engineering with a concentration in Biomedical Devices/Neuroengineering. My dream is to create a better life for people by combining my skills in electrical engineering and my interest in the human body. 
 
 * 🌍  I'm based in San Marcos, TX
 * ✉️  You can contact me at [dsharpintexas7@gmail.com](mailto:dsharpintexas7@gmail.com)
