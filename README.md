@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Electrical Engineering Student
 ------------------------------
 
-Howdy! I'm David Sharp, an electrical engineering student at Texas State University. I'm looking to pursue a Master's Degree in Electrical Engineering with a concentration in Biomedical Devices/Neuroengineering. My dream is to create a better life for people by combining my skills in electrical engineering and my interest in the human body. 
+Howdy! I'm David Sharp, a former electrical engineering student at Texas State University. I'm currently pursuing a Master's Degree in Electrical Engineering with a concentration in Biomedical Devices/Electromagnetics at the University of Utah. My dream is to create a better life for people by combining my skills in electrical engineering and my interest in the human body. 
 
-* 🌍  I'm based in San Marcos, TX
+* 🌍  I'm based in Midvale, UT
 * ✉️  You can contact me at [dsharpintexas7@gmail.com](mailto:dsharpintexas7@gmail.com)
-* 🚀  I'm currently working on [Robo Fetch Bot](https://github.com/David-Sharp-13/Senior-Design-Robo-Fetch-Bot)
-* 🧠  I'm learning wireless communication systems and printed circuit board design
+* 🚀  I'm currently working on [Machine Learning Neurological Disease Detection Using EEG Data](https://github.com/David-Sharp-13/Machine-Learning)
+* 🧠  I'm learning wireless communication systems and biomedical devices
 
 ### Skills
 
