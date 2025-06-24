@@ -6,7 +6,7 @@ Electrical Engineering Student
 
 Howdy! I'm David Sharp, a former electrical engineering student at Texas State University. I'm currently pursuing a Master's Degree in Electrical Engineering with a concentration in Biomedical Devices/Electromagnetics at the University of Utah. My dream is to create a better life for people by combining my skills in electrical engineering and my interest in the human body. 
 
-* 🌍  I'm based in Midvale, UT
+* 🌍  I'm based in Salt Lake City, UT
 * ✉️  You can contact me at [dsharpintexas7@gmail.com](mailto:dsharpintexas7@gmail.com)
 * 🚀  I'm currently working on [Machine Learning Neurological Disease Detection Using EEG Data](https://github.com/David-Sharp-13/Machine-Learning)
 * 🧠  I'm learning wireless communication systems and biomedical devices
